@@ -2,7 +2,7 @@
 
 ## Usage
 
-Copy the repo as a directory to your project and import it like you typically would in Odin. See examples for real code examples. 
+Copy the repo as a directory to your project and import it like you typically would in Odin. See the examples directory for working Odin code. 
 
 There is no need to run the build scripts unless you want to build the static libraries for yourself or if you want to build all the examples.
 
@@ -33,7 +33,7 @@ Note that Vulkan (if you use the Vulkan renderer) and C++ Standard Library\* mus
 | SDL2    | X      | X      |
 | GLFW    | X      | X      |
 
-SDL3 will be supported once the package is available in its vendor library.
+SDL3 will be supported once the package is available in Odin's vendor library.
 
 ## Examples
 
