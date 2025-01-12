@@ -1,0 +1,6 @@
+.DS_Store
+**/*.obj
+examples_macos_exec/
+examples_windows_exec/
+examples_linux_exec/
+imgui.ini
